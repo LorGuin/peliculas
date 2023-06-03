@@ -1,0 +1,31 @@
+[{
+    "title": "El fantasma",
+    "rating": 8,
+    "tags": ["terror"],
+    "year": 2022
+  },
+  {
+    "title": "Trolla",
+    "rating": 3,
+    "tags": ["Drama"],
+    "year": 2023
+  },
+  {
+    "title": "Juanito el chango",
+    "rating": 20,
+    "tags": ["favorita"],
+    "year": 2021
+  },
+  {
+    "title": "Dragon ball Z",
+    "rating": 11,
+    "tags": ["Combate"],
+    "year": 2024
+  },
+  {
+    "title": "El rencuenntro",
+    "rating": 16,
+    "tags": ["Amor del bueno"],
+    "year": 2001
+  }
+]
